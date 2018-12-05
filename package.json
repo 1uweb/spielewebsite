@@ -1,0 +1,28 @@
+{
+  "name": "spielewebsite",
+  "version": "1.0.0",
+  "description": "Spielseite für Fabio",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^7.0.2",
+    "node-sass": "^4.10.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1uweb/spielewebsite.git"
+  },
+  "author": "Uwe Barthel, Fabio Lugert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1uweb/spielewebsite/issues"
+  },
+  "homepage": "https://github.com/1uweb/spielewebsite#readme"
+}
